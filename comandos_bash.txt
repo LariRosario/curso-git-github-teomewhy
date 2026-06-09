@@ -1,0 +1,9 @@
+ls -> abre a pasta e lista o que há 
+cd -> muda de diretório
+pwd -> mostra o caminho absoluto
+mkdir -> cria uma pasta nova
+ctrl + L -> limpa a tela
+cat -> mostra o conteudo do arquivo
+rm -rf -> exclui as subpastas sem pedir confirmação (CUIDADO!!!)
+git status -> mostra o que acontece no diretório
+git add -> adiciona o que vai para o commit
