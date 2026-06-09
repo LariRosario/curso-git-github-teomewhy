@@ -7,6 +7,7 @@ git add* -> adiciona todos os arquivos do projeto para commitar
 git add . -> adiciona todos os arquivos da pasta atual para commitar
 git diff -> mostra a diferença do estado atual do arquivo em relação ao commit anterior
 git reset -> muda o estado atual do arquivo
-git checkout -b -> cria uma nova branch
+git checkout -b -> cria uma nova branch (clona a branch main)
 git checkout <nome-da-branch> -> acessa a branch escolhida
 git merge <nome-da-branch> -> copia os arquivos da branch escolhida
+git branch -d <nome-da-branch> -> deleta uma branch
