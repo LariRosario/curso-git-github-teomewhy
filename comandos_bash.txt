@@ -4,7 +4,7 @@ pwd -> mostra o caminho absoluto
 mkdir -> cria uma pasta nova
 ctrl + L -> limpa a tela
 cat -> mostra o conteudo do arquivo
-rm -rf -> exclui as subpastas sem pedir confirmação (CUIDADO!!!)
+rm -rf -> remove de forma recursiva e forçada todos os diretórios
 git status -> mostra o que acontece no diretório
 git add -> adiciona o que vai para o commit
 "Apenas para gerar um commit"
