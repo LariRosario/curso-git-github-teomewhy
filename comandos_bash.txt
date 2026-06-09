@@ -7,3 +7,4 @@ cat -> mostra o conteudo do arquivo
 rm -rf -> exclui as subpastas sem pedir confirmação (CUIDADO!!!)
 git status -> mostra o que acontece no diretório
 git add -> adiciona o que vai para o commit
+"Apenas para gerar um commit"
