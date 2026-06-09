@@ -3,3 +3,7 @@ git status -> mostra o status do trabalho (de cada arquivo)
 git add nome_arquivo -> adiciona arquivo para ser commitado
 git commit - m "msg" -> faz o commit do que estava para ser commitado
 git log -> mostra todo o hustórico de commit realizados
+git add* -> adiciona todos os arquivos do projeto para commitar
+git add . -> adiciona todos os arquivos da pasta atual para commitar
+git diff -> mostra a diferença do estado atual do arquivo em relação ao commit anterior
+git reset -> muda o estado atual do arquivo

@@ -1,10 +1,24 @@
-ls -> abre a pasta e lista o que h· 
-cd -> muda de diretÛrio
+ls -> abre a pasta e lista o que h  
+cd -> muda de diret rio
 pwd -> mostra o caminho absoluto
 mkdir -> cria uma pasta nova
 ctrl + L -> limpa a tela
 cat -> mostra o conteudo do arquivo
-rm -rf -> remove de forma recursiva e forÁada todos os diretÛrios
-git status -> mostra o que acontece no diretÛrio
+rm -rf -> remove de forma recursiva e for ada todos os diret rios
+git status -> mostra o que acontece no diret rio
 git add -> adiciona o que vai para o commit
-"Apenas para gerar um commit"
+git add* -> adiciona todos os arquivos do projeto para commitar
+git add . -> adiciona todos os arquivos da pasta atual para commitar
+git diff -> mostra a diferen√ßa do estado atual do arquivo em rela√ß√£o ao commit anterior
+
+
+## FLUXO DE TRABALHO
+1. criar o diret√≥rio (pasta) do projeto
+2. iniciar o git dentro do diret√≥rio criado (git init .)
+3. edita ou cria arquivos
+4. git status
+5. git add <nome_arquivo>
+6. git status
+7. git commit -m "mensagem"
+8. git status
+9. volta ao passo 3
