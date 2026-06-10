@@ -1,5 +1,6 @@
 # Curso TMW Git & GitHub 2025
 
-Um curso gratuito no canal do YouTube do streamer TeoMeWhy para iniciantes aprenderem a trabalhar com versionamento de cÛdigo e repositÛrios remotos com GitHub.
+Um curso gratuito no canal do YouTube do streamer TeoMeWhy para iniciantes aprenderem a trabalhar com versionamento de c√≥digo e reposit√≥rios remotos com GitHub.
 
-Neste curso ser· utilizado o GitFlow e o VSCode.
+Neste curso ser√° utilizado o GitFlow e o VSCode.
+
