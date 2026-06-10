@@ -11,3 +11,5 @@ git checkout -b -> cria uma nova branch (clona a branch main)
 git checkout <nome-da-branch> -> acessa a branch escolhida
 git merge <nome-da-branch> -> copia os arquivos da branch escolhida
 git branch -d <nome-da-branch> -> deleta uma branch
+git pull origin <nome-da-branch> -> recebe as coisas da origem
+git push origin <nome-da-branch> -> envia as coisas para a origem
